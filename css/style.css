@@ -10,12 +10,50 @@
 
 /*body*/
 
+.button4 {
+  padding: 0, 5rem;
+  transition:  /* background-color 1s, transform 1s;*/ all 5s;
+}
+
+.button4:hover {
+  padding: 1.5rem;
+  background-color: rgb(155, 129, 151);
+  transform: rotate(360deg);
+}
+.button-contacto {
+  padding: 0.5rem;
+}
+.button-contacto:hover {
+  transform: scale(1.3);
+}
+.button-faq {
+  animation-name: button-faq;
+  animation-duration: 1s;
+  background-color: #f100e1;
+  animation-iteration-count: infinite;
+  animation-duration: easy;
+}
+
+@keyframes button-faq {
+  0% {
+    transform: rotate(0deg);
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+    transform: rotate(360deg);
+  }
+}
+
 .body-background {
   background-color: rgb(228, 221, 221);
 }
 
 .img-central {
-  /* height: 550px; */
+  height: 50%;
   width: 100%;
 }
 
@@ -67,7 +105,7 @@ a {
 
 .header-title {
   font-family: "Pacifico", cursive;
-  text-align: center;
+  left: 20%;
   position: absolute;
   font-size: 95px;
   color: rgb(219, 175, 197);
@@ -82,8 +120,7 @@ a {
 
 .header-imgtext {
   position: relative;
-  display: flex;
-  justify-content: center;
+
   align-items: center;
 }
 
@@ -862,7 +899,7 @@ body {
 
   .imgintermain {
     width: 100%;
-    height: 500px;
+    height: 293px;
   }
 
   .main-propiedades-texto5 {
