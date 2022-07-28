@@ -60,7 +60,7 @@
 /*header*/
 
 .header_class {
-  background-color: rgb(215, 186, 201);
+  background-color: rgb(170, 162, 182);
   position: fixed;
   width: 100%;
   z-index: 1000;
