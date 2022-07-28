@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Contacto</title>
-    <link rel="stylesheet" href="../css/style.css" />
+    
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
@@ -31,6 +31,8 @@
       rel="stylesheet"
     />
     <link rel="stylesheet" href="https://unpkg.com/jam-icons/css/jam.min.css" />
+    <link rel="stylesheet" href="../boostrap/bootstrap.css">
+    <link rel="stylesheet" href="../css/style.css" />
   </head>
 
   <body>
@@ -71,7 +73,7 @@
         <img
           src="../imagenes/telefono101.jpg"
           alt="imgtelefon"
-          class="imagen-float"
+          class="imagen-float img-fluid"
         />
       </div>
       <div>
@@ -86,41 +88,32 @@
       <form>
         <div class="main-propiedades-texto004">
           <div class="form-sep01">
-            <label for="nombre" class="label-forma">Nombre:</label>
+            <div><label for="nombre" class="label-forma">Nombre:</label></div>
             <input
               type="text"
               id="nombre"
               name="nombre"
               placeholder="Ingrese su nombre aqui"
               required
-              class="form-input11"
+              class="form-input11 main-propiedades-texto0042"
             />
           </div>
-          <div class="form-sep">
-            <label for="email" class="label-forma">Email:</label>
-            <input
-              type="email"
-              id="email"
-              name="email"
-              placeholder="Ingrese su mail aquí"
-              required
-              class="form-input11"
-            />
-          </div>
-          <div>
-            <label for="Escribinos" class="label-forma">Escribinos:</label>
-
-            <textarea
-              name="Escribinos"
-              id="Escribinos"
-              cols="30"
-              rows="10"
-              placeholder="Escriba su consulta aquí"
-              required
-              class="form-textarea"
-            ></textarea>
-          </div>
-        </div>
+          <form>
+  <div class="mb-3">
+    <div><label for="exampleInputEmail1" class="form-label">Email address</label></div>
+    <input type="email" class="form-control form-input11" id="exampleInputEmail1"  placeholder="Ingrese su mail aquí"  required aria-describedby="emailHelp">
+    <div id="emailHelp" class="form-text"></div>
+  </div>
+  <div class="mb-3">
+    <label for="exampleInputPassword1" class="form-label">Contraseña</label>
+    <input type="password" class="form-control form-input11" id="exampleInputPassword1"  placeholder="Ingrese su contraseña" required>
+  </div>
+  <label for="floatingTextarea2">Comments</label>
+  <textarea class="form-control textarea-style" placeholder="Ingrese su comentario aquí" id="floatingTextarea2" style="height: 100px"></textarea>
+  
+</div>
+  </div>
+ </form>
         <div>
           <button type="submit" class="main-button2 button-contacto">Enviar</button>
         </div>
@@ -164,5 +157,6 @@
         </ul>
       </nav>
     </footer>
+    <script src="../js/bootstrap.bundle.js"></script>
   </body>
 </html>

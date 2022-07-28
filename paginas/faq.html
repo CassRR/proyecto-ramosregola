@@ -31,6 +31,8 @@
       rel="stylesheet"
     />
     <link rel="stylesheet" href="https://unpkg.com/jam-icons/css/jam.min.css" />
+    <link rel="stylesheet" href="../boostrap/bootstrap.css" />
+    <link rel="stylesheet" href="../css/style.css" />
   </head>
 
   <body>
@@ -60,81 +62,115 @@
           <li>
             <a href="./faq.html">Pregutas frecuentes</a>
           </li>
-          <li><a href="#cerrado"class="item-cerrado">x</a></li>
-            </li>
-          </ul>
-        </nav>
-      </div>
+          <li><a href="#cerrado" class="item-cerrado">x</a></li>
+        </ul>
+      </nav>
     </header>
     <main>
       <section class="main-sep">
         <h1 class="main-proptext-tituloAyuda">Necesitás Ayuda?</h1>
+
         <div>
-          <div>
-            <img
-              src="../imagenes/tekl3.jpg"
-              alt="imgtel3"
-              class="imagen-float2"
-            />
-          </div>
-          <ul>
-            <li>
-              <h2 class="main-propiedades-texto002 h1m-style">
-                Cómo recibo mi producto?
-              </h2>
-              <p>
-                Por defecto enviamos todos nuestros productos a tu domicilio,
-                por Correo Argentino u Andreani a tu domicilio seleccionado, en
-                el caso de que prefieras cambiar esta opción sólo tenés que
-                informar en el momento de la compra la sucursal en la que
-                prefieras recibir tu pedido. es muy simple!
-              </p>
-            </li>
-            <li>
-              <h2 class="main-propiedades-texto002">
-                Qué pasa si mi producto no llega?
-              </h2>
-              <p>
-                Si tu producto no llega a tu domicilio o a sucursal en el tiempo
-                indicado, generalmente son 15 días máximo, tu dinero se
-                reintegra completamente a tu cuenta y podés disponer de él como
-                más te guste!
-              </p>
-            </li>
-            <li>
-              <h2 class="main-propiedades-texto002">
-                Puedo hacer seguimiento de mi pedido?
-              </h2>
-              <p>
-                Sí, cuando despachemos tu pedido vamos a indicarte el código de
-                seguimiento asi como también la página del servicio por el que
-                se despachó para que puedas seguir tu orden paso a paso.
-              </p>
-            </li>
-          </ul>
-          <div>
-            <form>
-              <h2 class="main-propiedades-texto002">
-                ¿Esta Info te fue de utilidad?
-              </h2>
-              <div class="main-propiedades-textoradio">
-                <label for="yes">Si</label>
-                <input
-                  type="radio"
-                  name="utilidad"
-                  value="yes"
-                  required
-                  class="prop-radio"
-                />
-                <label for="no">No</label>
-                <input type="radio" name="utilidad" value="no" required />
-              </div>
-              <div>
-                <button class="main-button2 button-faq">Enviar</button>
-              </div>
-            </form>
+          <img
+            src="../imagenes/tekl3.jpg"
+            alt="imgtel3"
+            class="imagen-float2 img-fluid"
+          />
+        </div>
+
+        <div class="grid text-center">
+          <div class="g-col-6">
+            <h2 class="main-propiedades-texto002 h1m-style">
+              Cómo recibo mi producto?
+            </h2>
           </div>
         </div>
+        <div class="g-col-6">
+          <p>
+            Por defecto enviamos todos nuestros productos a tu domicilio, por
+            Correo Argentino u Andreani a tu domicilio seleccionado, en el caso
+            de que prefieras cambiar esta opción sólo tenés que informar en el
+            momento de la compra la sucursal en la que prefieras recibir tu
+            pedido. es muy simple!
+          </p>
+        </div>
+        <div class="grid text-center">
+          <div class="g-col-6">
+            <h2 class="main-propiedades-texto002">
+              Qué pasa si mi producto no llega?
+            </h2>
+          </div>
+          <div class="g-col-6">
+            <p>
+              Si tu producto no llega a tu domicilio o a sucursal en el tiempo
+              indicado, generalmente son 15 días máximo, tu dinero se reintegra
+              completamente a tu cuenta y podés disponer de él como más te
+              guste!
+            </p>
+          </div>
+        </div>
+        <div class="grid text-center">
+          <div class="g-col-6">
+            <h2 class="main-propiedades-texto002">
+              Puedo hacer seguimiento de mi pedido?
+            </h2>
+          </div>
+          <div class="g-col-6">
+            <p>
+              Sí, cuando despachemos tu pedido vamos a indicarte el código de
+              seguimiento asi como también la página del servicio por el que se
+              despachó para que puedas seguir tu orden paso a paso.
+            </p>
+          </div>
+        </div>
+        <div class="grid text-center">
+          <div class="g-col-6">
+            <h2 class="main-propiedades-texto002">
+              ¿Esta Info te fue de utilidad? Te hace falta más información?
+              Comentanos!
+            </h2>
+          </div>
+        </div>
+        <form>
+          <div class="main-propiedades-textoradio">
+            <div class="input-group mb-3">
+              <div class="input-group-text">
+                <input
+                  class="form-check-input mt-0"
+                  type="checkbox"
+                  value=""
+                  aria-label="Checkbox for following text input"
+                />
+                Si
+              </div>
+              <input
+                type="text"
+                class="form-control"
+                aria-label="Text input with checkbox"
+              />
+            </div>
+
+            <div class="input-group">
+              <div class="input-group-text">
+                <input
+                  class="form-check-input mt-0"
+                  type="radio"
+                  value=""
+                  aria-label="Radio button for following text input"
+                />
+                No
+              </div>
+              <input
+                type="text"
+                class="form-control"
+                aria-label="Text input with radio button"
+              />
+            </div>
+            <div>
+              <button class="main-button2 button-faq">Enviar</button>
+            </div>
+          </div>
+        </form>
       </section>
     </main>
     <footer class="footer-borde">
@@ -175,5 +211,6 @@
         </ul>
       </nav>
     </footer>
+    <script src="../js/bootstrap.bundle.js"></script>
   </body>
 </html>
