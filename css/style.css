@@ -124,9 +124,11 @@ a {
   font-family: "Pacifico", cursive;
   top: 211px;
   position: absolute;
-  font-size: 95px;
+  font-size: 77px;
   color: rgb(219, 175, 197);
-  transform: translate(50%, 20%);
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 .header-menu {
