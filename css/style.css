@@ -10,6 +10,39 @@
 
 /*body*/
 
+.degradado {
+  background-image: linear-gradient(
+    to right top,
+
+    #e6dbe3,
+    #e2dee0,
+    #d6abc1
+  );
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.img-catalogo:hover {
+  transform: scale(1.1);
+}
+
+a:active {
+  color: #f100e1;
+}
+
+.form-control2 {
+  transition: all 1s;
+}
+
+.form-control2:hover {
+  background-color: #f0d3ed;
+}
+
+/*input:focus {
+  color: darkolivegreen;
+}*/
+
 .par-2 {
   color: black;
   font-size: 16px;
@@ -239,7 +272,7 @@ p {
 
 .main-imgformflex01 {
   width: 320px;
-  height: 444px;
+  height: 464px;
 }
 
 .mainprop-button {
@@ -475,31 +508,31 @@ body {
   border-radius: 10%;
   overflow: hidden;
 }
+.input-style {
+  background-color: rgb(187, 165, 169);
+  font-family: "Pacifico";
+  font-size: 17px;
+}
 
 .div-hijo1 {
   grid-area: img1;
-  background-color: blueviolet;
 
   /*justify-self: start;*/
 }
 
 .div-hijo2 {
-  background-color: rgb(226, 67, 43);
   grid-area: img2;
 }
 
 .div-hijo3 {
-  background-color: rgb(226, 198, 43);
   grid-area: img3;
 }
 
 .div-hijo4 {
-  background-color: rgb(43, 226, 43);
   grid-area: img4;
 }
 
 .div-hijo5 {
-  background-color: rgb(43, 144, 226);
   grid-area: img5;
 }
 
