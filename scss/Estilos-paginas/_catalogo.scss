@@ -1,0 +1,82 @@
+/*Estilos para Cátalogo*/
+
+/*estilos para body*/
+
+.img-catalogo:hover {
+    transform: scale(1.1);
+}
+
+body {
+    background-color: rgb(239, 213, 226);
+}
+
+.card-backgroun {
+    background-color: rgb(239, 213, 226);
+    border-color: rgb(239, 213, 226);
+    border-width: 5px;
+}
+
+/*header*/
+
+/*estilos compartidos con clases del index asi como también clases del logo del footer*/
+
+.parag {
+    color: white;
+    font-size: 25px;
+}
+
+.parag2 {
+    color: white;
+    font-size: 35px;
+}
+
+.header-menu2 {
+    display: flex;
+    border: 3px solid header-menu rgb(205, 166, 186);
+    justify-content: space-around;
+    align-items: center;
+}
+
+.main-imagenes {
+    border-radius: 25%;
+
+    margin-left: 15px;
+    border-top: 30px;
+    filter: drop-shadow(7px 7px 7px rgb(146, 66, 79));
+    padding-bottom: 30px;
+
+    display: block;
+    width: 250px;
+    height: 300px;
+}
+
+.main-propiedades-texto03 {
+    color: rgb(129, 110, 120);
+    font-size: 34px;
+    font-family: "Pacifico", cursive;
+    text-align: center;
+    margin-left: -12px;
+}
+
+.main-propiedades-texto05 {
+    color: black;
+    font-size: 50px;
+    font-family: "Pacifico", cursive;
+    text-align: center;
+    padding-bottom: 30px;
+    text-decoration: underline;
+}
+
+/* estilo de footer/*
+
+        /*estilos de footer compartidos con clases de index*/
+
+.footer-borde {
+    border: rgb(176, 136, 155);
+    border-style: solid;
+    border-width: 3px;
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+    margin-bottom: 10px;
+}

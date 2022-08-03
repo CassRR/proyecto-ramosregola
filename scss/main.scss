@@ -1,3 +1,11 @@
-.lables{
-    color: coral;
-}
+
+@import "./Estilos-paginas/_inicial.scss";
+@import "./Estilos-paginas/_catalogo.scss";
+@import "./Estilos-paginas/_index.scss";
+@import "./Estilos-paginas/_identidad.scss";
+@import "./Estilos-paginas/_faq.scss";
+@import "./Estilos-paginas/_contacto.scss";
+@import "./Estilos-paginas/_querytablet.scss";
+@import "./Estilos-paginas/_querymovil.scss";
+
+

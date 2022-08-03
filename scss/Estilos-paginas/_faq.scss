@@ -1,0 +1,84 @@
+/*Estilos para faq/*
+
+/* estilos compartidos con clases de index, para tipografia, logo, footer y menu*/
+
+/*main*/
+
+.main-proptext-tituloAyuda {
+    color: black;
+    font-size: 55px;
+    font-family: "Pacifico", cursive;
+    text-align: center;
+
+    margin-bottom: 70px;
+    text-decoration: underline;
+}
+
+.degradado {
+    background-image: linear-gradient(to right top,
+
+            #e6dbe3,
+            #e2dee0,
+            #d6abc1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.imagen-float {
+    float: left;
+    filter: drop-shadow(7px 7px 7px rgb(147, 44, 62));
+    padding-right: 20px;
+    padding-top: 25px;
+    width: 50%;
+    height: 898px;
+}
+
+.imagen-float2 {
+    filter: drop-shadow(7px 7px 7px rgb(147, 44, 62));
+    padding-right: 20px;
+    padding-top: 25px;
+    width: 100%;
+    height: 750px;
+    padding-bottom: 60px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.h1m-style {
+    padding-top: 25px;
+}
+
+.main-propiedades-texto002 {
+    color: black;
+    font-size: 25px;
+    font-family: "Montserrat", sans-serif;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.main-propiedades-textoradio {
+    color: black;
+    font-size: 25px;
+    font-family: "Montserrat", sans-serif;
+    margin-top: 25px;
+
+    text-align: center;
+}
+
+.main-button2 {
+    color: black;
+    font-size: 23px;
+    font-family: "Pacifico", cursive;
+    background-color: rgb(216, 166, 191);
+    border-radius: 10px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.prop-radio {
+    margin-right: 50px;
+}
+

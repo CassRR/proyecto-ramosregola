@@ -1,0 +1,108 @@
+/*Estilos para contáctanos*/
+
+/* estilos compartidos con clases de index, para tipografia, logo, footer y menu*/
+
+/*main*/
+
+.img-catalogo:hover {
+  transform: scale(1.1);
+}
+
+.textarea-style {
+  height: 100px;
+  width: 325px;
+  height: 100px;
+}
+
+.main-propiedades-texto004 {
+  color: rgb(96, 94, 94);
+  font-size: 19px;
+  font-family: "Pacifico", cursive;
+}
+
+.main-propiedades-texto003 {
+  color: rgb(220, 167, 194);
+  font-size: 45px;
+  font-family: "Pacifico", cursive;
+  text-align: left;
+  text-decoration: underline;
+  margin-left: 30px;
+  padding-bottom: 30px;
+  padding-top: 30px;
+}
+
+.main-sep {
+  margin-bottom: 70px;
+  padding-top: 150px;
+}
+
+.a-JamIcona {
+  font-size: 40px;
+  display: none;
+  text-decoration: none;
+}
+
+.form-sep {
+  padding-bottom: 25px;
+}
+
+.form-sep01 {
+  padding-bottom: 25px;
+  padding-top: 25px;
+}
+
+.main-proptext-tituloa {
+  color: black;
+  font-size: 45px;
+  font-family: "Pacifico", cursive;
+  text-align: left;
+
+  margin-bottom: 20px;
+  text-decoration: underline;
+}
+
+.div-none {
+  display: none;
+}
+
+.flex-catalogo {
+  font-display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.form-input {
+  height: 30px;
+  width: 301px;
+  margin-left: 5px;
+}
+
+.form-input01 {
+  height: 30px;
+  width: 60%;
+}
+
+.form-input11 {
+  height: 30px;
+  width: 30%;
+}
+
+.label-form {
+  margin-right: 55px;
+}
+
+.label-forma {
+  margin-right: 25px;
+  width: 10%;
+  display: inline-block;
+}
+
+.form-textarea {
+  width: 30%;
+  height: 200px;
+}
+
+.form-input01 {
+  height: 30px;
+  width: 60%;
+}
