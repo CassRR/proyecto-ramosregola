@@ -99,20 +99,20 @@ body {
   opacity: 0.9;
 }
 
-.header_class .header_index {
+.header_index {
   background-color: #d7b8d2;
   width: 100%;
   opacity: 0.9;
 }
 
-.header_class .header-div {
+.header-div {
   background-color: #d7b8d2;
   position: relative;
   height: 60px;
   bottom: 1px;
 }
 
-.header_class .header-title {
+.header-title {
   font-family: "Pacifico", cursive;
   top: 211px;
   position: absolute;
@@ -123,19 +123,19 @@ body {
   transform: translate(-50%, -50%);
 }
 
-.header_class .header-menu {
+.header-menu {
   display: flex;
   justify-content: space-around;
   padding-top: 15px;
   flex-direction: row;
 }
 
-.header_class .header-imgtext {
+.header-imgtext {
   position: relative;
   align-items: center;
 }
 
-.header_class .header-height {
+.header-height {
   height: 60px;
   align-items: center;
 }
@@ -209,23 +209,23 @@ a:active {
   margin-right: 25px;
 }
 
-.main-margin .main-position {
+.main-position {
   margin-top: 50px;
 }
 
-.main-margin .main-position .imgintermain {
+.imgintermain {
   width: 100%;
   height: 550px;
 }
 
-.main-margin .main-position .img-mains {
+.img-mains {
   width: 100%;
   height: 725px;
   padding-top: 60px;
   padding-bottom: 40px;
 }
 
-.main-margin .main-proptext-titulo {
+.main-proptext-titulo {
   color: black;
   font-size: 55px;
   font-family: "Pacifico", cursive;
@@ -235,7 +235,7 @@ a:active {
   text-decoration: underline;
 }
 
-.main-margin .main-proptext-titulocat {
+.main-proptext-titulocat {
   color: black;
   font-size: 55px;
   font-family: "Pacifico", cursive;
@@ -245,14 +245,14 @@ a:active {
   text-decoration: underline;
 }
 
-.main-margin .main-propiedades-texto2 {
+.main-propiedades-texto2 {
   color: black;
   font-size: 40px;
   font-family: "Pacifico", cursive;
   text-align: center;
 }
 
-.main-margin .main-propiedades-texto3 {
+.main-propiedades-texto3 {
   color: #dca7c2;
   font-size: 35px;
   font-family: "Pacifico", cursive;
@@ -261,18 +261,18 @@ a:active {
   margin-left: 30px;
 }
 
-.main-margin .main-propiedades-texto4 {
+.main-propiedades-texto4 {
   color: #605e5e;
   font-size: 20px;
   font-family: "Pacifico", cursive;
 }
 
-.main-margin .main-propiedades-texto4 label {
+.main-propiedades-texto4 label {
   width: 100px;
   display: inline-block;
 }
 
-.main-margin .main-propiedades-texto5 {
+.main-propiedades-texto5 {
   color: black;
   font-size: 22px;
   font-family: "Pacifico", cursive;
@@ -281,17 +281,17 @@ a:active {
   padding-bottom: 10px;
 }
 
-.main-margin .main-imgformflex {
+.main-imgformflex {
   display: flex;
   justify-content: space-around;
 }
 
-.main-margin .main-imgformflex01 {
+.main-imgformflex01 {
   width: 320px;
   height: 464px;
 }
 
-.main-margin .mainprop-button {
+.mainprop-button {
   color: black;
   font-size: 13px;
   font-family: "Pacifico", cursive;
@@ -303,7 +303,7 @@ a:active {
   margin-bottom: 10px;
 }
 
-.main-margin .main-form {
+.main-form {
   background-color: #c6b1bc;
   border-style: solid;
   border-color: #989090;
@@ -339,18 +339,18 @@ p {
   margin-bottom: 10px;
 }
 
-.footer-margin .footer-imglogo2 {
+.footer-imglogo2 {
   width: 50px;
   height: 50px;
 }
 
-.footer-margin .footer-teximg {
+.footer-teximg {
   display: flex;
   justify-content: space-around;
   background-color: #d7b8d2;
 }
 
-.footer-margin .footer-teximg li {
+.footer-teximg li {
   font-family: "Montserrat", sans-serif;
   font-size: 20px;
   color: #605e5e;
@@ -359,11 +359,11 @@ p {
   padding-top: 20px;
 }
 
-.footer-margin .footer-teximg li a {
+.footer-teximg li a {
   padding-left: 10px;
 }
 
-.footer-margin .footer-imglogo {
+.footer-imglogo {
   border-radius: 50%;
   margin-bottom: 10px;
   width: 50px;
@@ -373,7 +373,7 @@ p {
   top: 0px;
 }
 
-.footer-margin .imagen-footer {
+.imagen-footer {
   width: 50px;
   height: 50px;
 }
@@ -392,25 +392,25 @@ p {
   text-decoration: underline;
 }
 
-.main-proptext-titulo001 .main-imagen {
+.main-imagen {
   padding-right: 25px;
   padding-left: 25px;
   padding-bottom: 50px;
   width: 100%;
 }
 
-.main-proptext-titulo001 .main-iframe {
+.main-iframe {
   margin-left: 60px;
   margin-right: 60px;
 }
 
-.main-proptext-titulo001 .main-iframeflex {
+.main-iframeflex {
   display: flex;
   justify-content: space-around;
   align-items: center;
 }
 
-.main-proptext-titulo001 .main-propiedades-textoid {
+.main-propiedades-textoid {
   color: black;
   font-size: 40px;
   font-family: "Montserrat", sans-serif;
