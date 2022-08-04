@@ -7,19 +7,36 @@
 .main-proptext-titulo001 {
   color: black;
   font-size: 80px;
-  font-family: "Pacifico", cursive;
+  font-family: $fuenteMarca;
   text-align: center;
   padding-top: 130px;
   margin-bottom: 50px;
   text-decoration: underline;
+  .main-imagen {
+      padding-right: 25px;
+      padding-left: 25px;
+      padding-bottom: 50px;
+      width: 100%;
+    }
+        .main-iframe {
+          margin-left: 60px;
+          margin-right: 60px;
+        }
+                .main-iframeflex {
+                  display: flex;
+                  justify-content: space-around;
+                  align-items: center;
+                }
+                                .main-propiedades-textoid {
+                                  color: black;
+                                  font-size: 40px;
+                                  font-family: "Montserrat", sans-serif;
+                                  text-align: center;
+                                  padding-top: 50px;
+                                }
 }
 
-.main-imagen {
-  padding-right: 25px;
-  padding-left: 25px;
-  padding-bottom: 50px;
-  width: 100%;
-}
+
 
 .footer-imglogo2 {
   border-radius: 50%;
@@ -31,24 +48,10 @@
   left: -4px;
 }
 
-.main-iframe {
-  margin-left: 60px;
-  margin-right: 60px;
-}
 
-.main-iframeflex {
-  display: flex;
-  justify-content: space-around;
-  align-items: center;
-}
 
-.main-propiedades-textoid {
-  color: black;
-  font-size: 40px;
-  font-family: "Montserrat", sans-serif;
-  text-align: center;
-  padding-top: 50px;
-}
+
+
 
 /*grid*/
 
@@ -63,17 +66,12 @@
     "img3 img3 img4"
     "img5 img5 img4";
 
-  /*row-gap: 25px;
-  column-gap: 25px;*/
+
 
   gap: 10px 10px;
 }
 
-/* justify-items: stretch;
-  align-items: center;
-  justify-content: center;
-  align-content: space-between;
-}*/
+
 
 .div-hijosx {
   border-radius: 10%;
@@ -82,14 +80,14 @@
 
 .input-style {
   background-color: rgb(187, 165, 169);
-  font-family: "Pacifico";
+  font-family: $fuenteMarca;
   font-size: 17px;
 }
 
 .div-hijo1 {
   grid-area: img1;
 
-  /*justify-self: start;*/
+  
 }
 
 .div-hijo2 {

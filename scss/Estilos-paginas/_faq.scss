@@ -7,7 +7,7 @@
 .main-proptext-tituloAyuda {
     color: black;
     font-size: 55px;
-    font-family: "Pacifico", cursive;
+    font-family: $fuenteMarca;
     text-align: center;
 
     margin-bottom: 70px;
@@ -69,7 +69,7 @@
 .main-button2 {
     color: black;
     font-size: 23px;
-    font-family: "Pacifico", cursive;
+    font-family: $fuenteMarca;
     background-color: rgb(216, 166, 191);
     border-radius: 10px;
     margin-top: 30px;
@@ -82,3 +82,26 @@
     margin-right: 50px;
 }
 
+.button-faq {
+    animation-name: button-faq;
+    animation-duration: 1s;
+    background-color: #f100e1;
+    animation-iteration-count: infinite;
+    animation-duration: easy;
+}
+
+@keyframes button-faq {
+    0% {
+        transform: rotate(0deg);
+        opacity: 1;
+    }
+
+    50% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+        transform: rotate(360deg);
+    }
+}
