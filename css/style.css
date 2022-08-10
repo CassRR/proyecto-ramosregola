@@ -35,6 +35,18 @@ body {
   font-size: 35px;
 }
 
+.item--d1 {
+  background-image: linear-gradient(to right top, #d2a3c6, #dedadc, #d6abc1);
+}
+
+.item--d2 {
+  background-image: linear-gradient(to right top, #d2a3c6, #e1d5db, #d6abc1);
+}
+
+.item--d3 {
+  background-image: linear-gradient(to right top, #d2a3c6, #f3ebef, #d6abc1);
+}
+
 .header-menu2 {
   display: flex;
   border: 3px solid header-menu #cda6ba;
@@ -68,6 +80,26 @@ body {
   text-align: center;
   padding-bottom: 30px;
   text-decoration: underline;
+}
+
+.fontaling-catalogo {
+  text-align: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  padding-bottom: 15px;
+  color: #5c5656;
+}
+
+.divcatalogo-medidas {
+  width: 300px;
+  height: 363px;
+  border-radius: 30px;
+}
+
+.divflexCatalogo {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding-bottom: 30px;
 }
 
 /* estilo de footer/*
@@ -481,6 +513,18 @@ p {
 
 /* estilos compartidos con clases de index, para tipografia, logo, footer y menu*/
 /*main*/
+.clasecolor,
+.clase--color {
+  background-color: #d7b8d2;
+}
+
+.clase--color {
+  color: #7a7272;
+  font-size: 18px;
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
+}
+
 .main-proptext-tituloAyuda {
   color: black;
   font-size: 55px;
@@ -584,8 +628,12 @@ p {
 
 .textarea-style {
   height: 100px;
-  width: 325px;
+  width: 30%;
   height: 100px;
+}
+
+.form-display {
+  display: block;
 }
 
 .main-propiedades-texto004 {
@@ -682,6 +730,17 @@ p {
 
 /*tablet*/
 @media screen and (max-width: 1023px) {
+  .divflex-catalogo {
+    display: flex;
+    flex-direction: column;
+  }
+  .form-display {
+    display: block;
+  }
+  .divcatalogo-medidas {
+    margin-bottom: 30px;
+    margin-top: 10px;
+  }
   .main-button2 {
     color: black;
     font-size: 20px;
@@ -693,6 +752,21 @@ p {
     margin-right: auto;
     display: block;
   }
+}
+
+@media screen and (max-width: 1023px) and (max-width: 600px) {
+  .divflexCatalogo {
+    flex-direction: column;
+  }
+}
+
+@media screen and (max-width: 1023px) and (max-width: 980px) {
+  .divflexCatalogo {
+    flex-direction: column;
+  }
+}
+
+@media screen and (max-width: 1023px) {
   .main-imgformflex01 {
     display: none;
   }
@@ -855,6 +929,17 @@ p {
 
 /*movil*/
 @media screen and (max-width: 599px) {
+  .divflex-catalogo {
+    display: flex;
+    flex-direction: column;
+  }
+  .divcatalogo-medidas {
+    margin-bottom: 30px;
+    margin-top: 10px;
+  }
+  .form-display {
+    display: block;
+  }
   .main-propiedades-texto4 {
     color: #605e5e;
     font-size: 15px;

@@ -3,6 +3,18 @@
 /* estilos compartidos con clases de index, para tipografia, logo, footer y menu*/
 
 /*main*/
+.clasecolor,
+.clase--color {
+    background-color: #d7b8d2;;
+}
+
+.clase--color {
+    color: rgb(122, 114, 114);
+        
+            font-size: 18px;
+            font-family: "Montserrat", sans-serif;
+            text-align: center;
+}
 
 .main-proptext-tituloAyuda {
     color: black;

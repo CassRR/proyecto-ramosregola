@@ -1,6 +1,20 @@
 /*movil*/
 
 @media screen and (max-width: 599px) {
+    .divflex-catalogo {
+            display: flex;
+            flex-direction: column;
+           
+          
+        }
+                .divcatalogo-medidas {
+                    margin-bottom: 30px;
+                    margin-top: 10px;
+
+                }
+    .form-display {
+            display: block;
+        }
     .main-propiedades-texto4 {
         color: rgb(96, 94, 94);
         font-size: 15px;

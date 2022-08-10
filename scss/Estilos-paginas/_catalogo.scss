@@ -2,6 +2,7 @@
 
 /*estilos para body*/
 
+
 .img-catalogo:hover {
     transform: scale(1.1);
 }
@@ -28,6 +29,11 @@ body {
 .parag2 {
     color: white;
     font-size: 35px;
+}
+@for $i from 1 through 3 {
+    .item--d#{$i} {
+        background-image: map-get($catalogostyle, d+$i);
+    }
 }
 
 .header-menu2 {
@@ -66,6 +72,32 @@ body {
     padding-bottom: 30px;
     text-decoration: underline;
 }
+
+.fontaling-catalogo{
+        text-align: center;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            padding-bottom: 15px;
+            color: rgb(92, 86, 86);
+}
+
+.divcatalogo-medidas{
+        width: 300px;
+            height: 363px;
+            border-radius: 30px;
+            
+}
+
+
+
+.divflexCatalogo {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+        padding-bottom: 30px;
+}
+
+
+
 
 /* estilo de footer/*
 
