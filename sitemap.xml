@@ -1,0 +1,717 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/issues</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/pulls</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/actions</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/projects?type=new</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/security</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/blob/master/.gitignore</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/blob/master/index.html</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/blob/master/package-lock.json</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/blob/master/package.json</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/blob/master/p%C3%A1ginas%20wireframe.pdf</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/blob/master/querytablet.scss</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/releases</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/labels</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/milestones</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/compare</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/actions/workflows/pages/pages-build-deployment</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/actions/runs/2799851472</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/actions/runs/2799802122</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/actions/runs/2799680485</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/actions/runs/2786037587</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/actions/runs/2785638819</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/actions/runs/2785153274</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/actions/runs/2785049051</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/actions/runs/2784992529</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/actions/runs/2751014379</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/actions/runs/2750837139</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/actions/runs/2750640239</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/actions/runs/2750635862</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/actions/runs/2728455579</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/projects?type=classic</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/projects?type=beta</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/security/policy</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/security/advisories</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/blob/49b6420a3e8635ae92b17560d06552f57cf5ea1f/.gitignore</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/find/master</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/blob/49b6420a3e8635ae92b17560d06552f57cf5ea1f/index.html</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/blob/49b6420a3e8635ae92b17560d06552f57cf5ea1f/package-lock.json</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/blob/49b6420a3e8635ae92b17560d06552f57cf5ea1f/package.json</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/blob/49b6420a3e8635ae92b17560d06552f57cf5ea1f/querytablet.scss</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/labels?sort=name-asc</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/labels?sort=name-desc</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/labels?sort=count-desc</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/labels?sort=count-asc</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/labels/bug</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/labels/documentation</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/labels/duplicate</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/labels/enhancement</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/labels/good%20first%20issue</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/labels/help%20wanted</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/labels/invalid</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/labels/question</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/labels/wontfix</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/milestones?state=open</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/milestones?state=closed</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/milestones?direction=desc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/milestones?direction=asc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/milestones?direction=asc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/milestones?direction=desc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/milestones?direction=asc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/milestones?direction=desc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/milestones?direction=desc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/milestones?direction=asc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/runs/7681521791?check_suite_focus=true</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/runs/7681531233?check_suite_focus=true</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/runs/7681530935?check_suite_focus=true</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/commit/49b6420a3e8635ae92b17560d06552f57cf5ea1f</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/actions/runs/2799851472/usage</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/runs/7681388531?check_suite_focus=true</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/runs/7681395842?check_suite_focus=true</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/runs/7681395704?check_suite_focus=true</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/commit/c23e765579ac54ba110d213c7f356ba55f1ee7c1</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/actions/runs/2799802122/usage</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/runs/7681045618?check_suite_focus=true</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/runs/7681055618?check_suite_focus=true</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/runs/7681055448?check_suite_focus=true</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/commit/1f7b33574db214c883d727a8902392782cb599d2</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/actions/runs/2799680485/usage</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/runs/7642641322?check_suite_focus=true</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/runs/7642649745?check_suite_focus=true</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/runs/7642649597?check_suite_focus=true</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/commit/ee5cb813cf7062bcc1c7c7da2ba18a5213db9f45</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/actions/runs/2786037587/usage</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/runs/7641579448?check_suite_focus=true</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/runs/7641588778?check_suite_focus=true</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/runs/7641588657?check_suite_focus=true</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/commit/2db898532d83e4dcc0352d548bd70f081c64c444</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/actions/runs/2785638819/usage</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/runs/7640196685?check_suite_focus=true</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/runs/7640206882?check_suite_focus=true</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/runs/7640206765?check_suite_focus=true</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/commit/5322c87637e50ddc28b4ea6554167a59795aa079</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/actions/runs/2785153274/usage</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/runs/7639900272?check_suite_focus=true</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/runs/7639909278?check_suite_focus=true</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/runs/7639909071?check_suite_focus=true</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/commit/75ed99a70b1ca2d63f1a538aa80085f998d19efc</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/actions/runs/2785049051/usage</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/runs/7639749382?check_suite_focus=true</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/runs/7639759327?check_suite_focus=true</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/runs/7639759132?check_suite_focus=true</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/commit/18173cc64db00efc73fc2a1a8c7c21b3a4e6728a</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/actions/runs/2784992529/usage</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/runs/7552574269?check_suite_focus=true</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/runs/7552579751?check_suite_focus=true</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/runs/7552579675?check_suite_focus=true</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/commit/e20c5ded0eda5b1d7d1c5c566ee3eaa70228fb04</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/actions/runs/2751014379/usage</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/runs/7552115345?check_suite_focus=true</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/runs/7552120976?check_suite_focus=true</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/runs/7552120923?check_suite_focus=true</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/commit/10a5e887bec5f7d71420f11f923fdc88e2c52db4</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/actions/runs/2750837139/usage</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/runs/7551611221?check_suite_focus=true</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/runs/7551618260?check_suite_focus=true</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/runs/7551618176?check_suite_focus=true</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/commit/d5ef8809da377bdf64811d4af5ee102db37fb6d2</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/actions/runs/2750640239/usage</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/runs/7551600005?check_suite_focus=true</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/runs/7551605460?check_suite_focus=true</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/runs/7551605351?check_suite_focus=true</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/commit/67319bbad7d2423ffa0c95d356d087f28cfbbb1f</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/actions/runs/2750635862/usage</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/runs/7490223947?check_suite_focus=true</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/runs/7490228253?check_suite_focus=true</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/runs/7490228304?check_suite_focus=true</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/commit/f09708d35afe1b3ae33a7b4f51fa526d3d275c2c</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/actions/runs/2728455579/usage</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/security/advisories?state=published</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/find/49b6420a3e8635ae92b17560d06552f57cf5ea1f</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/milestones?direction=desc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/milestones?direction=asc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/milestones?direction=asc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/milestones?direction=desc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/milestones?direction=asc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/milestones?direction=desc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/milestones?direction=desc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/milestones?direction=asc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/commit/109acc5f064f54c8f0d68b1546965ca792b1abba</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/commit/3da19e409384c44d688917337f5da5b94062dc01</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/CassRR/proyecto-ramosregola/commit/5a9c67ea27f73a00f66de1c9b1c127c250b38f92</loc>
+  <lastmod>2022-08-10T07:49:30+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+
+
+</urlset>
