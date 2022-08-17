@@ -93,8 +93,6 @@ body {
 .divflexCatalogo {
   display: flex;
   flex-direction: row;
-  justify-content: space-around;
-  padding-bottom: 30px;
 }
 
 .footer-borde {
@@ -495,8 +493,7 @@ p {
   grid-area: img5;
 }
 
-.clasecolor,
-.clase--color {
+.clasecolor, .clase--color {
   background-color: #d7b8d2;
 }
 
