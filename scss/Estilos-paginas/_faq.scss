@@ -1,17 +1,16 @@
 
-.clasecolor,
-.clase--color {
-    background-color: #d7b8d2;;
+.clasecolor {
+    background-color: #d7b8d2;
 }
 
 .clase--color {
+    @extend .clasecolor;
     color: rgb(122, 114, 114);
-        
-            font-size: 18px;
-            font-family: "Montserrat", sans-serif;
-            text-align: center;
-}
 
+    font-size: 18px;
+    font-family: "Montserrat", sans-serif;
+    text-align: center;
+}
 .main-proptext-tituloAyuda {
     color: black;
     font-size: 55px;
