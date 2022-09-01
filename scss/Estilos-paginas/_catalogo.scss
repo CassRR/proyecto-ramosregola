@@ -91,6 +91,7 @@ body {
 
 .divflexCatalogo {
     display: flex;
+    justify-content: space-around;
     @include divFlex(row)
 }
 
