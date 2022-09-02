@@ -5,55 +5,57 @@
 }
 /*header*/
 
-.header_class {
-    background-color: $colorMarca;
-    position: fixed;
-    width: 100%;
-    z-index: 1000;
-    height: 60px;
-    opacity: 0.9;
-}
-
-    .header_index {
-            background-color: $colorMarca;
-            width: 100%;
-    
-            opacity: 0.9;
+.header {
+        &_class {
+           background-color: $colorMarca;
+           position: fixed;
+           width: 100%;
+           z-index: 1000;
+           height: 60px;
+           opacity: 0.9;
         }
-    .header-div {
-                    background-color: $colorMarca;
-                    position: relative;
-                    height: 60px;
-                    bottom: 1px;
-                }
-    .header-title {
-                        font-family: $fuenteMarca;
-                            top: 211px;
-                            position: absolute;
-                            font-size: 77px;
-                            color: rgb(219, 175, 197);
-                            top: 50%;
-                            left: 50%;
-                            transform: translate(-50%, -50%);
-                        }
-          .header-menu {
+
+                     &_index{
+                       background-color: $colorMarca;
+                       width: 100%;
+                       opacity: 0.9;
+                    }
+        
+                            &-div { 
+                              background-color: $colorMarca;
+                              position: relative;
+                              height: 60px;
+                              bottom: 1px;
+                            }
+                         
+    &-title {
+    font-family: $fuenteMarca;
+    top: 211px;
+    position: absolute;
+    font-size: 77px;
+    color: rgb(219, 175, 197);
+    top: 50%;
+     left: 50%;
+    transform: translate(-50%, -50%);
+    }
+          &-menu {
               display: flex;
               justify-content: space-around;
               padding-top: 15px;
               flex-direction: row;
           }
     
-          .header-imgtext {
+          &-imgtext {
               position: relative;
     
               align-items: center;
           }
     
-          .header-height {
+          &-height {
               height: 60px;
               align-items: center;
           }
-    
+        }
     
     
           
