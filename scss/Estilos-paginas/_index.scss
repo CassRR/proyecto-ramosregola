@@ -38,12 +38,14 @@
      left: 50%;
     transform: translate(-50%, -50%);
     }
-          &-menu {
-              display: flex;
-              justify-content: space-around;
-              padding-top: 15px;
-              flex-direction: row;
-          }
+                  &_class {
+                    background-color: #d7b8d2;
+                        position: fixed;
+                        width: 100%;
+                        z-index: 1000;
+                        height: 60px;
+                        opacity: 0.9;}
+          
     
           &-imgtext {
               position: relative;
@@ -54,6 +56,10 @@
           &-height {
               height: 60px;
               align-items: center;
+          }
+          
+          &-li-top {
+            margin-top: 15px
           }
         }
     
@@ -315,6 +321,8 @@ p {
                     width: 50px;
                     height: 50px;
                 }
+
+        
 
 
 
