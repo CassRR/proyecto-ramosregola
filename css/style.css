@@ -6,6 +6,20 @@
   list-style: none;
 }
 
+.flex-carrito {
+  display: flex;
+  align-content: center;
+  justify-content: space-around;
+}
+
+.button-carrito {
+  color: black;
+  font-size: 22px;
+  font-family: inherit;
+  background-color: #d8a6bf;
+  border-radius: 10px;
+}
+
 .img-catalogo:hover {
   transform: scale(1.1);
 }
@@ -170,6 +184,11 @@ body {
   margin-top: 15px;
 }
 
+.fontCarrousel {
+  font-size: 45px;
+  color: black;
+}
+
 .a-JamIcon {
   font-size: 40px;
   position: absolute;
@@ -234,6 +253,11 @@ a:active {
 }
 
 /* main*/
+.backgroundcolor {
+  color: black;
+  background-color: #f2e1ef;
+}
+
 .main-margin {
   margin-left: 25px;
   margin-right: 25px;
@@ -253,6 +277,7 @@ a:active {
   height: 725px;
   padding-top: 60px;
   padding-bottom: 40px;
+  opacity: 70%;
 }
 
 .main-proptext-titulo {

@@ -64,7 +64,10 @@
         }
     
     
-          
+ .fontCarrousel{
+        font-size: 45px;
+            color: black;
+          }
   
 
 .a-JamIcon {
@@ -144,6 +147,11 @@ a:active {
 
 /* main*/
 
+.backgroundcolor {
+    color: black;
+    background-color:#f2e1ef;
+}
+
 .main-margin {
     margin-left: 25px;
     margin-right: 25px;
@@ -161,7 +169,9 @@ a:active {
                 height: 725px;
                 padding-top: 60px;
                 padding-bottom: 40px;
-            }
+                opacity: 70%;
+                }
+            
         
                 .main-proptext-titulo {
                     color: black;
