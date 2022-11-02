@@ -166,11 +166,7 @@ function hayStock(catalogo, productoElegido) {
   const seleccion = catalogo.find(
     (seleccionado) => seleccionado.nombre == productoElegido.nombre
   );
-  if (seleccion == undefined) {
-    return 0;
-  } else {
-    return seleccion.stock;
-  }
+  return seleccion == undefined ? 0 : seleccion.stock;
 }
 
 function sumaTotal(subtotal, precio) {
@@ -178,12 +174,6 @@ function sumaTotal(subtotal, precio) {
   return total;
 }
 
-// }
-// if (subtotal > 0) {
-//   alert("su total es de $ " + subtotal);
-// }
-
-debugger;
 function dibujar(producto) {
   const src = producto.imagen;
   const title = producto.nombre;
@@ -233,25 +223,24 @@ function dibujar(producto) {
 
   const catalogo = document.getElementById("catalogo");
   catalogo.appendChild(card);
-
-  // document
-  //   .getElementById(`btn_${numero}`)
-  //   .addEventListener("click", function () {
-  //     agregarCarrito(producto);
-  //   });
 }
 
 function agregarCarrito(compra) {
   let subtotal = 0;
   if (hayStock(catalogo, compra) > 0) {
-    alert("agregaste tu producto al carrito");
+    Swal.fire({
+      title: "Agregaste tu producto al carrito",
+      icon: "success",
+    });
     carrito.push(compra);
+    localStorage.setItem("cart", JSON.stringify(carrito));
     let precio = obtenerPrecio(catalogo, compra);
     subtotal = sumaTotal(precio, subtotal);
-    document.getElementById("subtotal").innerHTML += `
-    <div>${subtotal}<div>`;
   } else {
-    alert("Momentaneamente no contamos con stock del producto");
+    Swal.fire({
+      title: "Momentaneamente no contamos con stock del producto",
+      icon: "error",
+    });
   }
 }
 
@@ -260,5 +249,3 @@ function cards() {
 }
 
 cards();
-
-//principal();

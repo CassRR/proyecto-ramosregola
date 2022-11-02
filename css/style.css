@@ -6,10 +6,12 @@
   list-style: none;
 }
 
-.flex-carrito {
-  display: flex;
-  align-content: center;
-  justify-content: space-around;
+.flex-carrito h3 {
+  text-align: center;
+}
+
+.flex-carrito div {
+  text-align: center;
 }
 
 .button-carrito {
@@ -107,6 +109,7 @@ body {
 
 .divflexCatalogo {
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-around;
   flex-direction: row;
 }
@@ -485,7 +488,7 @@ p {
   display: grid;
   grid-template-columns: repeat(3, 33%);
   grid-template-rows: repeat(3, 180px);
-  grid-template-areas: "img1 img2 img2" "img3 img3 img4" "img5 img5 img4";
+  grid-template-areas: "img1 img2 img2" "img3 img3 img4" "img5 img5 img4";
   gap: 10px 10px;
 }
 
@@ -854,7 +857,7 @@ p {
     display: grid;
     grid-template-columns: repeat(2, 50%);
     grid-template-rows: repeat(2, 180px);
-    grid-template-areas: "img1 img2 " "img3 img4";
+    grid-template-areas: "img1 img2 " "img3 img4";
   }
   .main-imagenes {
     border-radius: 25%;
@@ -996,7 +999,7 @@ p {
   .main-propiedades-texto5 {
     color: black;
     font-size: 20px;
-    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
     text-align: center;
     padding-top: 10px;
     padding-bottom: 10px;
@@ -1256,7 +1259,7 @@ p {
   .padre-grid {
     grid-template-columns: repeat(1, 100%);
     grid-template-rows: repeat(2, 180px);
-    grid-template-areas: "img1" "img3";
+    grid-template-areas: "img1" "img3";
   }
   .item-cerrado {
     display: block;
