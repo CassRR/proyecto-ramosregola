@@ -5,13 +5,60 @@
   text-decoration: none;
   list-style: none;
 }
+.contenedor {
+    min-height: 100vh;
+}
 
 .flex-carrito h3 {
   text-align: center;
 }
+.header_classs{
+  background-color: #d7b8d2;
+  width: 100%;
+    z-index: 1000;
+    height: 60px;
+    opacity: 0.9;
+}
+.carritoStyle{
+      font-family: 'Pacifico';
+    font-size: 25px;
+    padding-right: 20px;
+        padding-bottom: 30px;
+        padding-left: 20px;
+
+
+    
+}
+.carritoStylee{
+  margin-left: 88px;
+      font-family: 'Pacifico';
+    font-size: 25px;
+    
+}
+
+.carritoImg{
+      height: 70px;
+    width: 70px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+   
+}
+
+.main-proptext-titulocata {
+    color: black;
+    font-size: 40px;
+    font-family: "Pacifico", cursive;
+    text-align: center;
+    margin-bottom: 50px;
+    text-decoration: underline;}
 
 .flex-carrito div {
   text-align: center;
+}
+.carrito-compras {
+   margin-top: 70px;
+   text-align: center;
+
 }
 
 .button-carrito {
@@ -352,13 +399,14 @@ a:active {
 .mainprop-button {
   color: black;
   font-size: 13px;
-  font-family: "Pacifico", cursive;
+  font-family:  'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   background-color: #d8a6bf;
   border-radius: 10px;
   padding: 5px 10px 5px 10px;
   margin-top: 20px;
   text-transform: uppercase;
   margin-bottom: 10px;
+  margin-left: 88px;
 }
 
 .main-form {
